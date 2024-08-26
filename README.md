@@ -8,6 +8,10 @@ Hello! I'm Guddu Kumar Chaudhary, a beginner in web development, passionate abou
 
 2. **Project 2:** [Amazon clone ]((http://127.0.0.1:5500/personal-repository/Amazon.com/index.html)) - This clone I create using CSS and HTML and whith the help of APNA college .
 
+3. **project 3:** [Portfolio website] This project I can create using HTML,CSS,& JAVA Script . Folder name is **GUDDU** ferture of this website is { It have HOME & ABOUT Page , Contact me feture (if you fill contact me form then this file summite on my google sheets )} .
+
+4. **Project 4:** [Tic Tac Toe ] This project I can create using HTML,CSS,& JAVA Script . Folder name is **Tic Tac Toe** go and check out. It have like these type of feture { NEW GAME & RESTART GAME } . In Java script I use winPattern Array to check Who won this match , and more logic you can go and checkout the file.
+
 ## Skills
 - HTML
 - CSS
