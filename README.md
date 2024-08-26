@@ -16,6 +16,8 @@ Hello! I'm Guddu Kumar Chaudhary, a beginner in web development, passionate abou
 - HTML
 - CSS
 - JavaScript
+- REACT JS
+- PYTHON
 ## Contact Me
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities:
 - Email: guddukumarchaudhary3547@gmail.com
