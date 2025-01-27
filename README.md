@@ -18,6 +18,7 @@ Hello! I'm Guddu Kumar Chaudhary, a beginner in web development, passionate abou
 - JavaScript
 - REACT JS
 - PYTHON
+- C language
 ## Contact Me
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities:
 - Email: guddukumarchaudhary3547@gmail.com
