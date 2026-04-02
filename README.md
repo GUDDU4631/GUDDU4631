@@ -1,28 +1,77 @@
-# Welcome to Guddu Kumar Chaudhary's Web Development Projects
+# 🚀 Guddu Chaudhary | Full Stack Developer & Creative Technologist  
 
-## Introduction
-Hello! I'm Guddu Kumar Chaudhary, a beginner in web development, passionate about crafting interactive and visually appealing websites. This repository showcases some of my projects where I've utilized HTML, CSS, and JavaScript.
+## 👋 About Me  
 
-## Projects
-1. **Project 1:** [Netfilex clone ]((http://127.0.0.1:5500/personal-repository/netflix/index1.html)) - This clone I create using CSS and HTML. Making this clone so many time and efforts.
+Hello! I'm **Guddu Chaudhary**, a passionate **B.Tech Computer Science (2nd Year)** student from Uttarakhand Technical University.  
 
-2. **Project 2:** [Amazon clone ]((http://127.0.0.1:5500/personal-repository/Amazon.com/index.html)) - This clone I create using CSS and HTML and whith the help of APNA college .
+I’m a **developer + creator** who loves building impactful digital products and visual content.  
+From **web development to filmmaking & video editing**, I enjoy turning ideas into reality.  
 
-3. **project 3:** [Portfolio website] This project I can create using HTML,CSS,& JAVA Script . Folder name is **GUDDU** ferture of this website is { It have HOME & ABOUT Page , Contact me feture (if you fill contact me form then this file summite on my google sheets )} .
+### 💡 Currently focused on:
+- Full Stack Development (MERN)  
+- Hackathon Projects & Real-world Applications  
+- Content Creation & Personal Branding  
 
-4. **Project 4:** [Tic Tac Toe ] This project I can create using HTML,CSS,& JAVA Script . Folder name is **Tic Tac Toe** go and check out. It have like these type of feture { NEW GAME & RESTART GAME } . In Java script I use winPattern Array to check Who won this match , and more logic you can go and checkout the file.
+---
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- REACT JS
-- PYTHON
-- C language
-## Contact Me
-Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities:
-- Email: guddukumarchaudhary3547@gmail.com
-- LinkedIn: Guddu chaudahry(https://www.linkedin.com/in/guddu-chaudhary-9361b8300/?trk=opento_sprofile_topcard)
-- Instagram: guddu_kr_12(https://www.instagram.com/)
+## 🛠️ Tech Stack  
 
-Let's connect and create something awesome together!
+### 💻 Development  
+- 🌐 HTML, CSS, JavaScript  
+- ⚛️ React.js  
+- 🟢 Node.js, Express.js  
+- 🗄️ MongoDB  
+- 🐍 Python  
+- ⚙️ C Language  
+
+### 🎨 Creative Tools  
+- 🎬 DaVinci Resolve (Video Editing)  
+- 🎨 Figma (Design & Content Creation)  
+
+---
+
+## 🚀 Projects  
+- skillUp Ai
+
+### 🔹 Upcoming 🚧  
+- Full Stack My Own product
+- Hackathon Projects 
+
+---
+
+## 🎬 Creative Work  
+
+🎥 Founder of **Easy Production**  
+
+- Short Film: *College Dream Life (A Film by Easy_Production)* 
+
+---
+
+## 💼 Experience  
+
+### 📱 Social Media Manager Intern – TNP Officer (2.5 Months)  
+- Managed content strategy  
+- Helped students with placement guidance  
+- Built engagement-driven posts  
+  
+
+### 📱 Graphic Designer Intern – TNP Officer (2.5 Months)  
+- Built engagement-driven posts 
+ 
+
+---
+
+## 📬 Connect With Me  
+
+- 📧 Email: guddukumarchaudhary3547@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/guddu-chaudhary-9361b8300  
+- 📸 Instagram (Personal): https://www.instagram.com/gudd_kr 
+
+---
+
+## ⚡ Fun Fact  
+
+I don’t just write code — I design, build, edit, and promote my own projects 🚀  
+
+---
+ 
