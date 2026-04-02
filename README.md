@@ -55,7 +55,7 @@ From **web development to filmmaking & video editing**, I enjoy turning ideas in
 - Built engagement-driven posts  
   
 
-### 📱 Graphic Designer Intern – TNP Officer (2.5 Months)  
+### 📱 Graphic Designer Intern – Mendygo (3 Months)  
 - Built engagement-driven posts 
  
 
