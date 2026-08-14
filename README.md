@@ -2,7 +2,7 @@
 
 ## 👋 About Me  
 
-Hello! I'm **Guddu Chaudhary**, a passionate **B.Tech Computer Science (2nd Year)** student from Uttarakhand Technical University.  
+Hello! I'm **Guddu Chaudhary**, a passionate **CS Student**  from Uttarakhand Technical University.  
 
 I’m a **developer + creator** who loves building impactful digital products and visual content.  
 From **web development to filmmaking & video editing**, I enjoy turning ideas into reality.  
@@ -22,7 +22,8 @@ From **web development to filmmaking & video editing**, I enjoy turning ideas in
 - 🟢 Node.js, Express.js  
 - 🗄️ MongoDB  
 - 🐍 Python  
-- ⚙️ C Language  
+- ⚙️ C Language
+- java
 
 ### 🎨 Creative Tools  
 - 🎬 DaVinci Resolve (Video Editing)  
@@ -32,10 +33,13 @@ From **web development to filmmaking & video editing**, I enjoy turning ideas in
 
 ## 🚀 Projects  
 - skillUp Ai
+- Glowup - an ecommerce website(under building)
+- airbnb clone
 
 ### 🔹 Upcoming 🚧  
 - Full Stack My Own product
-- Hackathon Projects 
+- Hackathon Projects
+- Personal education assistance(final year project coming in 6 to 7m)
 
 ---
 
